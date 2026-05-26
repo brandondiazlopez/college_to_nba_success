@@ -43,3 +43,5 @@ Python, pandas, scikit-learn, matplotlib, seaborn
 **Brandon Diaz-Lopez**
 M.S. Data Analytics — UCF 2024
 [Portfolio](https://brandondiazlopez.github.io/BrandonDiaz-Lopez2.github.io/) | [LinkedIn](https://www.linkedin.com/in/brandon-diaz-lopez-)
+link to colab 
+https://colab.research.google.com/drive/1gILH4u_pDTCtQw8ptu8q7JQU4aezxgIw?usp=sharing
