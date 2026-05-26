@@ -1,8 +1,10 @@
 # NBA Draft Analysis
 
-I've been around basketball my whole life. Played through high school, competed on Air Force base teams, and still run rec league now. The numbers side of the game never left me — breaking down why certain players succeed while others don't is something I've thought about long before I ever studied data analytics.
+Basketball has always been more than just a game for me. I grew up playing through high school, competed on Air Force base teams, and still run rec league now. Off the court I've helped out at camps and done volunteer skills coaching with kids, because passing the game on is just as important as playing it.
 
-This project is the intersection of both worlds.
+The obsession with the numbers side started early. Back in NBA Live 09 I would spend hours running simulations, breaking down player ratings, figuring out why Steve Nash was so effective despite not being the most athletic guy on the floor. That curiosity about what actually makes a player successful never went away — it just eventually turned into a career in data analytics.
+
+This project is where both worlds meet.
 
 ---
 
