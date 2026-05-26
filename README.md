@@ -4,7 +4,7 @@ Basketball has always been more than just a game for me. I grew up playing throu
 
 The obsession with the numbers side started early. Back in NBA Live 09 I would spend hours running simulations, breaking down player ratings, figuring out why Steve Nash was so effective despite not being the most athletic guy on the floor. But what really got me was the Player DNA feature — the idea that every player had a unique fingerprint of tendencies, strengths, and habits that defined how they played. As a kid I just thought it was cool. Looking back, that was basically an early version of what player tracking analytics does today — breaking a player down into their core behavioral patterns to understand and predict performance. It just took me a few years to realize the game had already shown me what I wanted to do for a living.
 
-That curiosity about what actually makes a player successful never went away — it just eventually turned into a career in data analytics.
+That curiosity about what actually makes a player successful never went away, its really what drove me into a career of Data Analytics 
 
 This project is where both worlds meet.
 
